@@ -1,0 +1,33 @@
+{
+    "users": {
+        "5962245820": {
+            "xp": 1009,
+            "username": "Mr_Ping",
+            "name": "\u30df\uff2d\uff52_\uff30\uff49\uff4e\uff47\u5f61"
+        },
+        "7312588451": {
+            "xp": 10,
+            "username": "matin_valak",
+            "name": "\u10dd\u10db\u0567\u1f36\u0572\u03bd\u10dbl\u10db\u0199"
+        },
+        "1712109362": {
+            "xp": 0,
+            "username": "PARSA_TRF_1",
+            "name": "\ud835\udc0f\ud835\udc00\ud835\udc11\ud835\udc12\ud835\udc00_\ud835\udc13\ud835\udc11\ud835\udc05"
+        },
+        "8025621150": {
+            "xp": 0,
+            "username": "Pioopoiii90",
+            "name": "Matinvalak"
+        },
+        "6649692831": {
+            "xp": 0,
+            "username": null,
+            "name": "matin"
+        }
+    },
+    "invites": {
+        "1712109362": "5962245820",
+        "6649692831": "7312588451"
+    }
+}
